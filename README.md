@@ -3,7 +3,7 @@ Family Justice Review Assistant
 # Family Justice Review Assistant (FJRA) — Build Files
 
 for examples you can see this is action in 
-
+https://chatgpt.com/g/g-69adf0975db88191ba61fc5ce8b3470d-family-justice-review-assistant
 https://gpt5-thinking-e64496-fjra.infinityfree.me/fjra-build/
 
 This repository contains the **core “build artifacts”** used to create the **Family Justice Review Assistant (FJRA)** as a **Custom GPT** in ChatGPT:
