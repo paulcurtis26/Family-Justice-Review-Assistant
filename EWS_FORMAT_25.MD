@@ -52,7 +52,7 @@ If the Tribunal affirms a breach has occurred, as outlined above, Mr. Curtis res
 a.	J.C
 b.	Mr Curtis
 c.	Ms Curtis
-d.	Mr Curtis’ Council, if the date of the Event is after the 26th October 2022 then Mr Curtis was representing the case on behalf of the Canadian estate of PAUL RAYMOND CURTIS
+d.	Mr Curtis’ Council, if the date of the Event is after the 26th October 2022 then Mr Curtis was representing the case on behalf of the Canadian estate of Mr Curtis
 e.	Ms Curtis’ Council
 24   Proposed Orders block
 a.
